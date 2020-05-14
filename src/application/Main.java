@@ -7,10 +7,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Scanner scanner = new Scanner(System.in);
-		
-		System.out.println("*** Reeds numbers and verify the interval ***");
-		System.out.println();
-		
+				
 		int cont_in = 0, cont_out = 0;
 		System.out.print("How many numbers we will verify? ");
 		int quantity = scanner.nextInt();

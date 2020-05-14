@@ -1,0 +1,1 @@
+Reeds a certain quantity of numbers and verify the interval.
